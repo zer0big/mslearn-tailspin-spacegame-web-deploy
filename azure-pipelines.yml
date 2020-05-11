@@ -3,7 +3,7 @@ trigger:
 
 stages:
   - stage: 'Build'
-    displayName: 'Build the web application'
+    displayName: 'Build the  web application'
     jobs: 
     - job: 'Build'
       displayName: 'Build job'
