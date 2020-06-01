@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="4296" it="0" lt="4293" ct="281" ts="1590563637672" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="3917" sby="157" ng="5" na="5">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="1457" it="0" lt="1457" ct="77" ts="1590563640517" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="3917" sby="157" ng="5" na="5">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="2454" it="0" lt="2454" ct="78" ts="1590563639520" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="3917" sby="157" ng="5" na="5">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="467" it="0" lt="467" ct="77" ts="1590563641513" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="3917" sby="157" ng="5" na="5">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="3457" it="0" lt="3454" ct="77" ts="1590563638526" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="3917" sby="157" ng="5" na="5">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="82" it="0" lt="82" ct="0" ts="1590563641983" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="3917" sby="157" ng="5" na="5">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="86" it="0" lt="85" ct="0" ts="1590563641984" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="3917" sby="157" ng="5" na="5">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="164" it="0" lt="160" ct="78" ts="1590563641983" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="3917" sby="157" ng="5" na="5">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="161" it="0" lt="161" ct="77" ts="1590563641986" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="3917" sby="157" ng="5" na="5">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="86" it="0" lt="86" ct="0" ts="1590563642068" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="3917" sby="157" ng="5" na="5">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="84" it="0" lt="84" ct="0" ts="1590563642072" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="3917" sby="157" ng="5" na="5">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="170" it="0" lt="169" ct="79" ts="1590563641992" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="3917" sby="157" ng="5" na="5">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="82" it="0" lt="81" ct="0" ts="1590563642149" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="3917" sby="157" ng="5" na="5">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="85" it="0" lt="85" ct="0" ts="1590563642149" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="3917" sby="157" ng="5" na="5">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="86" it="0" lt="86" ct="0" ts="1590563642156" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="3917" sby="157" ng="5" na="5">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="86" it="0" lt="85" ct="0" ts="1590563642158" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="3917" sby="157" ng="5" na="5">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="91" it="0" lt="89" ct="0" ts="1590563642163" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="3917" sby="157" ng="5" na="5">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="84" it="0" lt="82" ct="0" ts="1590563642236" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="3917" sby="157" ng="5" na="5">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="88" it="0" lt="87" ct="0" ts="1590563642233" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="3917" sby="157" ng="5" na="5">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="82" it="0" lt="82" ct="0" ts="1590563642246" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="3917" sby="157" ng="5" na="5">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="88" it="0" lt="85" ct="0" ts="1590563642245" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="3917" sby="157" ng="5" na="5">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="84" it="0" lt="83" ct="0" ts="1590563642255" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="3917" sby="157" ng="5" na="5">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="85" it="0" lt="85" ct="0" ts="1590563642323" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="3917" sby="157" ng="5" na="5">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="86" it="0" lt="86" ct="0" ts="1590563642322" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="3917" sby="157" ng="5" na="5">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="83" it="0" lt="83" ct="0" ts="1590563642329" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="3917" sby="157" ng="5" na="5">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="83" it="0" lt="83" ct="0" ts="1590563642334" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="3917" sby="157" ng="5" na="5">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="86" it="0" lt="82" ct="0" ts="1590563642340" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="3917" sby="157" ng="5" na="5">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="82" it="0" lt="82" ct="0" ts="1590563642411" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="3917" sby="157" ng="5" na="5">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="84" it="0" lt="84" ct="0" ts="1590563642414" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="3917" sby="157" ng="5" na="5">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="89" it="0" lt="86" ct="0" ts="1590563642418" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="3917" sby="157" ng="5" na="5">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="95" it="0" lt="89" ct="0" ts="1590563642414" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="3917" sby="157" ng="6" na="6">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="90" it="0" lt="90" ct="0" ts="1590563642427" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="3917" sby="157" ng="6" na="6">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="80" it="0" lt="79" ct="0" ts="1590563642495" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="3917" sby="157" ng="6" na="6">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="81" it="0" lt="81" ct="0" ts="1590563642508" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="3917" sby="157" ng="6" na="6">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="92" it="0" lt="92" ct="0" ts="1590563642500" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="3917" sby="157" ng="6" na="6">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="83" it="0" lt="82" ct="0" ts="1590563642510" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="3917" sby="157" ng="6" na="6">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="83" it="0" lt="82" ct="0" ts="1590563642519" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="3917" sby="157" ng="6" na="6">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="81" it="0" lt="80" ct="0" ts="1590563642577" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="3917" sby="157" ng="6" na="6">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="168" it="0" lt="168" ct="77" ts="1590563642510" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="3917" sby="157" ng="6" na="6">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="90" it="0" lt="90" ct="0" ts="1590563642593" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="3917" sby="157" ng="6" na="6">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="89" it="0" lt="89" ct="0" ts="1590563642594" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="3917" sby="157" ng="6" na="6">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="83" it="0" lt="82" ct="0" ts="1590563642603" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="3917" sby="157" ng="6" na="6">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="83" it="0" lt="83" ct="0" ts="1590563642658" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="3917" sby="157" ng="6" na="6">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="169" it="0" lt="169" ct="77" ts="1590563642591" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="3917" sby="157" ng="6" na="6">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="86" it="0" lt="85" ct="0" ts="1590563642679" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="3917" sby="157" ng="6" na="6">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="90" it="0" lt="90" ct="0" ts="1590563642685" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="3917" sby="157" ng="6" na="6">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="89" it="0" lt="89" ct="0" ts="1590563642686" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="3917" sby="157" ng="6" na="6">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="91" it="0" lt="89" ct="0" ts="1590563642687" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="3917" sby="157" ng="5" na="5">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="83" it="0" lt="83" ct="0" ts="1590563642742" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="3917" sby="157" ng="5" na="5">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="86" it="0" lt="86" ct="0" ts="1590563642761" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="3917" sby="157" ng="4" na="4">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="82" it="0" lt="81" ct="0" ts="1590563642766" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="3917" sby="157" ng="4" na="4">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="83" it="0" lt="82" ct="0" ts="1590563642779" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="3917" sby="157" ng="3" na="3">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="87" it="0" lt="87" ct="0" ts="1590563642776" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="3917" sby="157" ng="3" na="3">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="81" it="0" lt="80" ct="0" ts="1590563642849" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="82" it="0" lt="82" ct="0" ts="1590563642931" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="85" it="0" lt="85" ct="0" ts="1590563643014" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="82" it="0" lt="81" ct="0" ts="1590563643100" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="84" it="0" lt="83" ct="0" ts="1590563643183" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="83" it="0" lt="82" ct="0" ts="1590563643268" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="81" it="0" lt="81" ct="0" ts="1590563643352" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="158" it="0" lt="158" ct="77" ts="1590563643511" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="82" it="0" lt="80" ct="0" ts="1590563643670" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="81" it="0" lt="81" ct="0" ts="1590563643753" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="82" it="0" lt="81" ct="0" ts="1590563643835" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="82" it="0" lt="81" ct="0" ts="1590563643920" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="81" it="0" lt="79" ct="0" ts="1590563644003" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="82" it="0" lt="81" ct="0" ts="1590563644085" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="84" it="0" lt="84" ct="0" ts="1590563644168" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="81" it="0" lt="80" ct="0" ts="1590563644253" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="81" it="0" lt="80" ct="0" ts="1590563644334" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="174" it="0" lt="174" ct="92" ts="1590563644514" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="83" it="0" lt="82" ct="0" ts="1590563644689" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="89" it="0" lt="89" ct="0" ts="1590563644773" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="83" it="0" lt="82" ct="0" ts="1590563644863" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="88" it="0" lt="88" ct="0" ts="1590563644947" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="87" it="0" lt="87" ct="0" ts="1590563645037" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="82" it="0" lt="81" ct="0" ts="1590563645125" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="87" it="0" lt="87" ct="0" ts="1590563645208" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="88" it="0" lt="88" ct="0" ts="1590563645296" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="88" it="0" lt="87" ct="0" ts="1590563645385" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="170" it="0" lt="170" ct="82" ts="1590563645513" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="81" it="0" lt="81" ct="0" ts="1590563645685" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="81" it="0" lt="81" ct="0" ts="1590563645768" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="83" it="0" lt="82" ct="0" ts="1590563645850" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="82" it="0" lt="82" ct="0" ts="1590563645934" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="83" it="0" lt="83" ct="0" ts="1590563646017" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="82" it="0" lt="82" ct="0" ts="1590563646101" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="82" it="0" lt="82" ct="0" ts="1590563646184" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="81" it="0" lt="81" ct="0" ts="1590563646268" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="82" it="0" lt="82" ct="0" ts="1590563646351" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="167" it="0" lt="166" ct="77" ts="1590563646513" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="83" it="0" lt="83" ct="0" ts="1590563646680" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="82" it="0" lt="81" ct="0" ts="1590563646764" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="83" it="0" lt="82" ct="0" ts="1590563646847" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="83" it="0" lt="82" ct="0" ts="1590563646931" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="85" it="0" lt="84" ct="0" ts="1590563647015" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="82" it="0" lt="82" ct="0" ts="1590563647101" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="83" it="0" lt="82" ct="0" ts="1590563647184" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="82" it="0" lt="82" ct="0" ts="1590563647268" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+<httpSample t="96" it="0" lt="82" ct="0" ts="1590563647351" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="3917" sby="157" ng="1" na="1">
+  <java.net.URL>http://tailspin-space-game-web-staging-13861.azurewebsites.net/</java.net.URL>
+</httpSample>
+
+</testResults>
